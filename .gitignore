@@ -1,0 +1,28 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Frontend
+node_modules/
+dist/
+
+# Local configuration
+.vscode/
+
+.env
+.venv/
+__pycache__/
+*.py[cod]
